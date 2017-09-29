@@ -1,0 +1,4 @@
+# Exercise04:Question 1.4:radioactive dacay problem.
+## 思路
+题目要求：
+\frac{\mathrm{d} N_A}{\mathrm{d} x}= - \frac{N_A}{\tau _A}
