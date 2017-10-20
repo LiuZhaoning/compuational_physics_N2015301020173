@@ -7,3 +7,5 @@
 [Exercise_04:Problem 1.4 radioactive decay problem](https://www.zybuluo.com/1061357591/note/903106)
 
 [Exercise_05:Problem 2.9 抛物线问题](https://www.zybuluo.com/1061357591/note/903106)
+
+[Exercise_06:Problem 2.21 棒球旋转所受magnus力](https://www.zybuluo.com/1061357591/note/903104)
