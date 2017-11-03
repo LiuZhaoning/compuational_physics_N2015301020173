@@ -12,4 +12,4 @@
 
 [Exercise_07:Problem 3.11 摆线问题](https://www.zybuluo.com/1061357591/note/929550)
 
-
+[Exercise_08:Problem 3.20 单摆周期运动问题](https://www.zybuluo.com/1061357591/note/939210)
