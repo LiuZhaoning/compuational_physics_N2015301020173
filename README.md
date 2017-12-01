@@ -16,5 +16,4 @@
 
 [Exercise_09:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/947224)
 
-
-[Exercise_09:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/971384）
+![Exercise_09:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/971384）
