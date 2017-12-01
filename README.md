@@ -14,4 +14,6 @@
 
 [Exercise_08:Problem 3.20 单摆周期运动问题](https://www.zybuluo.com/1061357591/note/939210)
 
-[Exercise_08:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/947224)
+[Exercise_09:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/947224)
+
+[Exercise_09:Problem 3.31 The Billiard Problem](https://www.zybuluo.com/1061357591/note/971384）
