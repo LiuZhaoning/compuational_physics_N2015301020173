@@ -21,3 +21,5 @@
 [Exercise_11:Problem 5.1 Electric Potential and Fields](https://www.zybuluo.com/1061357591/note/979319)
 
 [Exercise_12:Problem 6.6 Waves:The Ideal Cases](https://www.zybuluo.com/1061357591/note/987783)
+
+[Final Work](https://github.com/LiuZhaoning/computational_physics_N2015301020173/blob/master/Random%20Walk%20and%20Diffusion%20弘毅刘肇宁2015301020173.pdf)
